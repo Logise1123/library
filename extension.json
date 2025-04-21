@@ -1,0 +1,8 @@
+[
+  {
+    "name":"FirebaseDB"
+    "banner":"fdb.png"
+    "description":"Extension for secure, online, password-protected data storage."
+    "code":"https://raw.githubusercontent.com/Logise1123/FirebaseDB-/refs/heads/main/db.js"
+  }
+]
